@@ -1,0 +1,8 @@
+/* Public discussion tokens only. This is not the Tabby Space production UI. */
+:root {
+  --tabby-space-public-canvas: #08101c;
+  --tabby-space-public-text: #f5f8ff;
+  --tabby-space-public-muted: #a9b5c9;
+  --tabby-space-public-radius: 20px;
+  --tabby-space-public-blur: 18px;
+}
